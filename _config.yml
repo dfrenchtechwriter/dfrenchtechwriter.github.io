@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # {file, title, url, icon, sidebaricon}
-  - {file: "/deirdreresume.pdf", title: "Resume"}
+  - {file: "/placeholderresume.pdf", title: "Resume"}
   - {file: "README.md", title: "About me"}
-  - {file: "/Blog.md", title: "Writing Samples"}
+  - {file: "/placeholderresume.pdf", title: "Writing Samples"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:frenchdeirdre4@gmail.com"}
